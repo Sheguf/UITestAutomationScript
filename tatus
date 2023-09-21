@@ -1,0 +1,13 @@
+[1mdiff --git a/src/main/java/helper/Base.java b/src/main/java/helper/Base.java[m
+[1mindex 76eb52d..5e645c5 100644[m
+[1m--- a/src/main/java/helper/Base.java[m
+[1m+++ b/src/main/java/helper/Base.java[m
+[36m@@ -41,7 +41,7 @@[m [mpublic class Base {[m
+ 			// TODO Auto-generated catch block[m
+ 			e.printStackTrace();[m
+ 		}[m
+[31m-		[m
+[32m+[m	[32m  //Need to fix issue[m[41m	[m
+ 	}[m
+ 	[m
+ 	@Before[m
